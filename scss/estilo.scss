@@ -1,0 +1,51 @@
+@import "_colortexto"
+$title-font:normal 24px/1.5'Open Sans',sans-serif;
+$cool-red:#F44336;
+
+body{
+    background-color: rgb(223, 86, 223);
+}
+
+
+.contactogeneral{
+    background-color: orange;
+    align-items: center;
+    label{
+        background-color: seagreen;
+        text-decoration: double;
+    }
+    input{
+        background-color: rgb(224, 110, 110);
+    }
+}
+
+
+.footergeneral{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    color: white;
+    text-decoration: none;
+    border: 1px solid black;
+    background-color: black;
+    background-image: linear-gradient(red, yellow);
+}
+
+.nosotros{
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+   ;
+}
+
+.redes{
+    list-style: none;
+    color: white;
+}
+.horario{
+    list-style: none;
+    color: white;   
+
+}
+
+

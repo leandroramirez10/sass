@@ -1,0 +1,10 @@
+body {
+  background-color: #df56df; }
+
+.contactogeneral {
+  background-color: orange; }
+  .contactogeneral label {
+    background-color: seagreen;
+    text-decoration: double; }
+  .contactogeneral input {
+    background-color: #e06e6e; }
